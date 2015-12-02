@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Save the Pandas
 locale:           en_US
 url:
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: Lucas Corrada-Guzman
+  avatar: lucas.jpg
+  bio: "Panda protector."
   email:
   disqus-shortname:
   twitter: #username
